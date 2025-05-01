@@ -1,36 +1,53 @@
 # 👋 Hello, I'm Sanjay Jaikumar
 
-🎯 **Aspiring Laravel Developer | Web Artisan | Backend Enthusiast**
+🎯 **Aspiring Laravel Developer | Backend Engineer | Web Artisan**
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate and self-driven **Laravel developer** focused on building dynamic, scalable, and secure web applications. I love transforming ideas into real-world web solutions using the Laravel framework and modern web tools.
+I'm a dedicated and growth-focused **Laravel developer** with a strong passion for building secure, responsive, and dynamic web applications. I specialize in Laravel development with modern tools like **Tailwind CSS**, **Livewire**, and **Filament Admin**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 🔧 **Languages**: PHP, JavaScript, HTML5, CSS3  
-- 🧰 **Frameworks**: Laravel, Bootstrap  
+- 🧑‍💻 **Languages**: PHP, JavaScript, HTML5, CSS3  
+- ⚙️ **Frameworks & Tools**: Laravel, Livewire, Filament, Tailwind CSS, Bootstrap  
 - 💾 **Database**: MySQL  
-- 🔍 **Tools**: Git, GitHub, VS Code, Postman  
-- 🌐 **Other**: REST APIs, MVC Architecture, Authentication Systems
+- 🛠️ **Dev Tools**: Git, GitHub, VS Code, Postman  
+- 🔒 **Skills**: RESTful APIs, MVC, Authentication, Authorization, CRUD operations
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🛒 VelloreCart – E-Commerce Website (Laravel Clone in Django)
-- Multi-vendor product management
-- Cart, checkout, and order system
-- Admin dashboard and analytics
+### 🛒 Laravel E-Commerce Website
+**Stack**: Laravel, Tailwind CSS, Livewire, MySQL  
+**Features**:
+- Dynamic product listings with filters and categories  
+- Cart, checkout, and order tracking  
+- Responsive frontend with Livewire interactivity  
+- Admin panel to manage users, orders, and inventory
 
-### 📅 SK Events & Entertainment – Event Booking Platform
-- Birthday and wedding event packages
-- User registration & booking module
-- PHP + MySQL with Bootstrap UI
+---
+
+### 📦 QR Code Generator with Filament Admin
+**Stack**: Laravel, Filament, PHP QR Code  
+**Features**:
+- Create custom QR codes with download options  
+- Integrated with Filament's sleek admin interface  
+- Role-based access and real-time QR generation
+
+---
+
+### 📝 Student Registration & Feedback System
+**Stack**: Laravel, Bootstrap, Custom Admin Panel  
+**Features**:
+- Student registration with validation and email confirmation  
+- Submit feedback with rating and comments  
+- Admin panel for managing students and feedback records  
+- Built from scratch with fully customized backend UI
 
 ---
 
@@ -42,11 +59,10 @@ I'm a passionate and self-driven **Laravel developer** focused on building dynam
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/) *(Add your real link)*
-- 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 📬 Email: sanjay@example.com
+
+- 📧 Email: sanjay.laraveldeveloper@gmail.com
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “The best way to learn is by building.” – Sanjay Jaikumar
 
