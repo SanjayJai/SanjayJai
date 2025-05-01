@@ -1,9 +1,52 @@
-<h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">A passionate laravel full stack developer from India</h3>
+# 👋 Hello, I'm Sanjay Jaikumar
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🎯 **Aspiring Laravel Developer | Web Artisan | Backend Enthusiast**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate and self-driven **Laravel developer** focused on building dynamic, scalable, and secure web applications. I love transforming ideas into real-world web solutions using the Laravel framework and modern web tools.
+
+---
+
+## 🛠️ Tech Stack
+
+- 🔧 **Languages**: PHP, JavaScript, HTML5, CSS3  
+- 🧰 **Frameworks**: Laravel, Bootstrap  
+- 💾 **Database**: MySQL  
+- 🔍 **Tools**: Git, GitHub, VS Code, Postman  
+- 🌐 **Other**: REST APIs, MVC Architecture, Authentication Systems
+
+---
+
+## 🚀 Projects
+
+### 🛒 VelloreCart – E-Commerce Website (Laravel Clone in Django)
+- Multi-vendor product management
+- Cart, checkout, and order system
+- Admin dashboard and analytics
+
+### 📅 SK Events & Entertainment – Event Booking Platform
+- Birthday and wedding event packages
+- User registration & booking module
+- PHP + MySQL with Bootstrap UI
+
+---
+
+## 📈 GitHub Stats
+
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-jaikumar&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile/) *(Add your real link)*
+- 💼 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📬 Email: sanjay@example.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
