@@ -51,10 +51,6 @@ I'm a dedicated and growth-focused **Laravel developer** with a strong passion f
 
 ---
 
-## 📈 GitHub Stats
-
-![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-jaikumar&show_icons=true&theme=radical)
-
 ---
 
 ## 📫 Let's Connect
