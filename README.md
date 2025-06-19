@@ -56,7 +56,7 @@ I'm a dedicated and growth-focused **Laravel developer** with a strong passion f
 ## 📫 Let's Connect
 
 
-- 📧 Email: sanjay.laraveldeveloper@gmail.com
+- 📧 Email: sanjay.dev0110@gmail.com
 
 ---
 
