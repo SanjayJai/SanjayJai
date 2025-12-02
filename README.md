@@ -1,34 +1,33 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Sanjay+Jaikumar;Laravel+Developer+%7C+Backend+Engineer;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
+# Hi 👋 I'm Sanjay Jaikumar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF2D20&center=true&vCenter=true&width=600&lines=Laravel+Backend+Engineer;Building+Scalable+Web+Applications;API+Architect+%7C+Full+Stack+Developer;Livewire+%26+Filament+Specialist" alt="Typing SVG" />
+
+<p>
   <a href="https://linkedin.com/in/sanjay-jaikumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/sanjay_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="mailto:sanjay.dev0110@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF2D20?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/sanjayjaikumar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjayjaikumar&label=Profile%20views&color=667eea&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sanjayjaikumar?label=Followers&style=flat&color=667eea" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/sanjayjaikumar?label=Stars&style=flat&color=667eea" alt="Stars" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=sanjayjaikumar&label=Profile%20Views&color=ff2d20&style=flat-square" alt="Profile views" />
+
+</div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Laravel Developer" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎯 **Laravel Developer | Backend Engineer | API Architect**
+**Laravel Backend Engineer | API Architect | Full Stack Developer**
 
-- 🔭 I'm currently working on **Laravel CMS with Livewire & Flux**
-- 🌱 I'm currently learning **Microservices, Docker & AWS**
-- 👯 I'm looking to collaborate on **Open Source Laravel Projects**
+- 🔭 Currently working on **Laravel CMS with Livewire & Flux**
+- 🌱 Learning **Microservices, Docker & AWS**
+- 👯 Open to collaborate on **Laravel Open Source Projects**
 - 💬 Ask me about **Laravel, REST APIs, Livewire, Filament**
-- 📫 How to reach me: **sanjay.dev0110@gmail.com**
+- 📫 Reach me: **sanjay.dev0110@gmail.com**
 - 📍 Location: **Nagercoil, Tamil Nadu, India**
 - ⚡ Fun fact: **I debug with dd() more than I'd like to admit! 😄**
 
@@ -40,318 +39,398 @@ namespace App\Developers;
 class SanjayJaikumar extends Developer
 {
     public string $role = 'Laravel Backend Engineer';
-    public array $skills = ['Laravel', 'REST API', 'Livewire', 'Filament'];
+    public array $expertise = ['Laravel', 'API Development', 'Livewire', 'Filament'];
     public string $location = 'Tamil Nadu, India';
     
     public function sayHi(): string
     {
         return "Thanks for dropping by! Let's build something amazing together.";
     }
+    
+    public function getCurrentFocus(): array
+    {
+        return [
+            'learning' => ['Microservices', 'Docker', 'AWS'],
+            'building' => ['Laravel SaaS', 'API Gateway', 'Real-time Apps'],
+        ];
+    }
 }
 ```
 
----
-
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://laravel.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="45" height="45"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/></a>
-  <a href="https://livewire.laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4" alt="Livewire" width="45" height="45"/></a>
-  <a href="https://filamentphp.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/64450473?s=200&v=4" alt="Filament" width="45" height="45"/></a>
-  <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/></a>
-  <a href="https://tailwindcss.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="45" height="45"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/></a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/></a>
-  <a href="https://github.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/></a>
-  <a href="https://www.postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="45" height="45"/></a>
-  <a href="https://www.linux.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/></a>
-  <a href="https://www.docker.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/></a>
-  <a href="https://redis.io" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/></a>
-  <a href="https://www.nginx.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/></a>
-</p>
+<br clear="right"/>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjayjaikumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjayjaikumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+<div align="center">
+
+### Core Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,mysql,postgresql,redis,mongodb" alt="Core" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjayjaikumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### Frontend & Styling
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,alpine" alt="Frontend" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjayjaikumar&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,nginx" alt="Tools" />
 </p>
+
+### Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,graphql,typescript" alt="Learning" />
+</p>
+
+</div>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🚀 Laravel Ecosystem Expertise
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjayjaikumar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
-### 🚀 Featured Projects
+<div align="center">
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Laravel Business CMS</h3>
-      <div align="center">  
-        <a href="https://github.com/sanjayjaikumar/laravel-business-cms" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayjaikumar&repo=laravel-business-cms&theme=tokyonight&hide_border=true" alt="Laravel CMS" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flux-000000?style=flat-square" />
-        </p>
-        <p><strong>Advanced CMS with Livewire 3 & Flux</strong> - Dynamic page builder, SEO optimization, role-based access control, analytics dashboard, and multi-language support.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">E-Commerce Platform</h3>
-      <div align="center">
-        <a href="https://github.com/sanjayjaikumar/laravel-ecommerce" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayjaikumar&repo=laravel-ecommerce&theme=tokyonight&hide_border=true" alt="E-Commerce" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
-          <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
-        </p>
-        <p><strong>Full-featured online store</strong> - Real-time cart, payment integration, order tracking, admin dashboard, and advanced product filtering.</p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">QR Code Generator</h3>
-      <div align="center">
-        <a href="https://github.com/sanjayjaikumar/qr-code-generator" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayjaikumar&repo=qr-code-generator&theme=tokyonight&hide_border=true" alt="QR Generator" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square" />
-        </p>
-        <p><strong>Professional QR code system</strong> - Customizable designs, bulk generation, usage analytics, Filament admin panel, and REST API.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Student Management System</h3>
-      <div align="center">
-        <a href="https://github.com/sanjayjaikumar/student-management" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjayjaikumar&repo=student-management&theme=tokyonight&hide_border=true" alt="Student System" />
-        </a>
-        <br><br>
-        <p>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-        </p>
-        <p><strong>Academic management platform</strong> - Student registration, feedback system, custom admin dashboard, email notifications, and PDF reports.</p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center">
+<img src="https://laravel.com/img/logomark.min.svg" width="80" height="80" alt="Laravel"/>
+<br><br>
+<strong>Laravel Framework</strong>
+<br>
+<sub>8.x - 11.x</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Expert-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+</td>
+
+<td width="33%" align="center">
+<img src="https://avatars.githubusercontent.com/u/51960834?s=200&v=4" width="80" height="80" alt="Livewire"/>
+<br><br>
+<strong>Livewire</strong>
+<br>
+<sub>Real-time Reactive UIs</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Advanced-4E56A6?style=flat-square" />
+</td>
+
+<td width="33%" align="center">
+<img src="https://avatars.githubusercontent.com/u/64450473?s=200&v=4" width="80" height="80" alt="Filament"/>
+<br><br>
+<strong>Filament</strong>
+<br>
+<sub>Admin Panel Builder</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Advanced-FDAE4B?style=flat-square" />
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+<img src="https://user-images.githubusercontent.com/10347617/40430313-63d8c3b8-5e7f-11e8-9b9f-2dbe8c96452e.png" width="80" height="80" alt="Sanctum"/>
+<br><br>
+<strong>Laravel Sanctum</strong>
+<br>
+<sub>API Authentication</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Proficient-FF2D20?style=flat-square" />
+</td>
+
+<td width="33%" align="center">
+<img src="https://laravel.com/img/logomark.min.svg" width="80" height="80" alt="Horizon"/>
+<br><br>
+<strong>Laravel Horizon</strong>
+<br>
+<sub>Queue Management</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Proficient-FF2D20?style=flat-square" />
+</td>
+
+<td width="33%" align="center">
+<img src="https://laravel.com/img/logomark.min.svg" width="80" height="80" alt="Telescope"/>
+<br><br>
+<strong>Laravel Telescope</strong>
+<br>
+<sub>Debugging Tool</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Proficient-FF2D20?style=flat-square" />
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+<img src="https://laravel.com/img/logomark.min.svg" width="80" height="80" alt="Octane"/>
+<br><br>
+<strong>Laravel Octane</strong>
+<br>
+<sub>Performance Boost</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Learning-FF2D20?style=flat-square" />
+</td>
+
+<td width="33%" align="center">
+<img src="https://avatars.githubusercontent.com/u/7535935?s=200&v=4" width="80" height="80" alt="Spatie"/>
+<br><br>
+<strong>Spatie Packages</strong>
+<br>
+<sub>Media, Permissions, Backup</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Advanced-0B8AE0?style=flat-square" />
+</td>
+
+<td width="33%" align="center">
+<img src="https://laravel.com/img/logomark.min.svg" width="80" height="80" alt="Excel"/>
+<br><br>
+<strong>Laravel Excel</strong>
+<br>
+<sub>Import/Export Data</sub>
+<br><br>
+<img src="https://img.shields.io/badge/Proficient-FF2D20?style=flat-square" />
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/sanjayjaikumar?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-667EEA?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
-  </a>
-</p>
+</div>
 
 ---
 
-### 💼 Skills & Expertise
+## 💼 Professional Skills
 
-<details open>
-<summary><b>🎯 Backend Development</b></summary>
-<br>
+<div align="center">
 
-- ✅ Laravel Framework (8.x - 11.x)
-- ✅ RESTful API Development
-- ✅ GraphQL API Integration  
-- ✅ Authentication & Authorization (Sanctum, Passport)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Development
+- ✅ RESTful API Architecture
+- ✅ GraphQL Integration
+- ✅ Authentication & Authorization
 - ✅ Database Design & Optimization
-- ✅ Queue Management & Jobs (Horizon)
+- ✅ Queue Management & Jobs
 - ✅ Event-Driven Architecture
-- ✅ Service Providers & Facades
-- ✅ Eloquent ORM & Complex Relationships
+- ✅ Service-Oriented Design
+- ✅ Repository Pattern
+- ✅ SOLID Principles
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>⚡ Modern Laravel Stack</b></summary>
-<br>
-
-- ✅ **Livewire 3.x** - Real-time reactive UIs
-- ✅ **Filament 3.x** - Rapid admin panel development
-- ✅ **Laravel Flux** - Modern UI components
-- ✅ **Laravel Sanctum** - API authentication
-- ✅ **Laravel Horizon** - Queue monitoring
-- ✅ **Laravel Telescope** - Debugging & insights
-- ✅ **Spatie Packages** - Media library, permissions, backup
-- ✅ **Laravel Excel** - Data import/export
-
-</details>
-
-<details>
-<summary><b>🎨 Frontend & UI</b></summary>
-<br>
-
-- ✅ Tailwind CSS
-- ✅ Alpine.js
-- ✅ Bootstrap 5
-- ✅ JavaScript (ES6+)
-- ✅ Responsive Design
-- ✅ Component-based Architecture
-
-</details>
-
-<details>
-<summary><b>🛠️ Tools & DevOps</b></summary>
-<br>
-
-- ✅ Git & GitHub
-- ✅ VS Code
-- ✅ Composer & NPM
-- ✅ Postman & API Testing
-- ✅ Docker (Learning)
-- ✅ Linux Server Management
+### DevOps & Deployment
+- ✅ Git Version Control
 - ✅ CI/CD Pipelines
+- ✅ Server Management (Linux)
+- ✅ Nginx Configuration
+- ✅ Docker Containerization
+- ✅ Redis Caching
+- ✅ MySQL/PostgreSQL
+- ✅ API Testing (Postman)
+- ✅ Performance Optimization
 
-</details>
+</td>
+</tr>
+</table>
 
----
-
-### 📦 Laravel Package Mastery
-
-| Package | Purpose | Level |
-|---------|---------|-------|
-| 🔐 **Laravel Sanctum** | API Authentication | ![](https://progress-bar.dev/95/?width=120&color=667eea) |
-| 📊 **Laravel Horizon** | Queue Monitoring | ![](https://progress-bar.dev/90/?width=120&color=667eea) |
-| 🔭 **Laravel Telescope** | Debugging | ![](https://progress-bar.dev/90/?width=120&color=667eea) |
-| ⚡ **Livewire** | Real-time UIs | ![](https://progress-bar.dev/95/?width=120&color=667eea) |
-| 🎨 **Filament** | Admin Panels | ![](https://progress-bar.dev/95/?width=120&color=667eea) |
-| 📁 **Spatie Media Library** | File Management | ![](https://progress-bar.dev/90/?width=120&color=667eea) |
-| 👥 **Spatie Permission** | Roles & Permissions | ![](https://progress-bar.dev/95/?width=120&color=667eea) |
-| 📊 **Laravel Excel** | Excel Operations | ![](https://progress-bar.dev/85/?width=120&color=667eea) |
+</div>
 
 ---
 
-### 📈 Coding Activity
+## 📦 Laravel Package Proficiency
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanjayjaikumar&theme=tokyonight" alt="Profile Summary" />
-</p>
+| Package | Description | Expertise Level |
+|:--------|:------------|:---------------:|
+| **Laravel Sanctum** | SPA & Mobile API Authentication | ![95%](https://progress-bar.dev/95/?width=120&color=ff2d20) |
+| **Laravel Horizon** | Queue Monitoring & Management | ![90%](https://progress-bar.dev/90/?width=120&color=ff2d20) |
+| **Laravel Telescope** | Application Debugging | ![90%](https://progress-bar.dev/90/?width=120&color=ff2d20) |
+| **Livewire** | Dynamic Interface Components | ![95%](https://progress-bar.dev/95/?width=120&color=ff2d20) |
+| **Filament** | Rapid Admin Panel Development | ![95%](https://progress-bar.dev/95/?width=120&color=ff2d20) |
+| **Spatie Media Library** | File & Media Management | ![90%](https://progress-bar.dev/90/?width=120&color=ff2d20) |
+| **Spatie Permission** | Role & Permission System | ![95%](https://progress-bar.dev/95/?width=120&color=ff2d20) |
+| **Laravel Excel** | Excel Import/Export | ![85%](https://progress-bar.dev/85/?width=120&color=ff2d20) |
+| **Laravel Passport** | OAuth2 Server | ![80%](https://progress-bar.dev/80/?width=120&color=ff2d20) |
+| **Laravel Breeze** | Authentication Scaffolding | ![95%](https://progress-bar.dev/95/?width=120&color=ff2d20) |
+
+</div>
 
 ---
 
-### 🎯 Current Focus
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Laravel Business CMS
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square" />
+<img src="https://img.shields.io/badge/Flux-000000?style=flat-square" />
+
+**Advanced Content Management System**
+- Dynamic page builder with drag & drop
+- SEO optimization tools
+- Role-based access control
+- Analytics dashboard
+- Multi-language support
+- Real-time content editing
+
+[View Project →](https://github.com/sanjayjaikumar/laravel-business-cms)
+
+</td>
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square" />
+<img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+
+**Full-featured Online Store**
+- Real-time shopping cart
+- Payment gateway integration
+- Order tracking system
+- Admin dashboard
+- Advanced product filtering
+- Inventory management
+
+[View Project →](https://github.com/sanjayjaikumar/laravel-ecommerce)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 QR Code Generator
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Filament-FDAE4B?style=flat-square" />
+<img src="https://img.shields.io/badge/API-REST-green?style=flat-square" />
+
+**Professional QR System**
+- Customizable QR designs
+- Bulk generation
+- Usage analytics
+- Filament admin panel
+- RESTful API
+- Download in multiple formats
+
+[View Project →](https://github.com/sanjayjaikumar/qr-code-generator)
+
+</td>
+<td width="50%">
+
+### 🎓 Student Management System
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+**Academic Platform**
+- Student registration
+- Feedback system
+- Custom admin dashboard
+- Email notifications
+- PDF report generation
+- Attendance tracking
+
+[View Project →](https://github.com/sanjayjaikumar/student-management)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<a href="https://github.com/sanjayjaikumar?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20All%20Projects-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="View All Projects" />
+</a>
+
+</div>
+
+---
+
+## 🎯 Current Focus
 
 ```javascript
-const currentLearning = {
-  advanced: ["Microservices Architecture", "GraphQL", "Docker & Kubernetes"],
-  practicing: ["Test-Driven Development (TDD)", "Design Patterns", "AWS Services"],
-  building: ["Laravel SaaS Boilerplate", "API Gateway", "Real-time Chat App"],
-  reading: ["Clean Architecture", "Domain-Driven Design", "Laravel Best Practices"]
+const currentGoals = {
+  mastering: [
+    "Microservices Architecture",
+    "Docker & Kubernetes",
+    "AWS Cloud Services",
+    "GraphQL APIs"
+  ],
+  
+  building: [
+    "Laravel SaaS Boilerplate",
+    "API Gateway Solution",
+    "Real-time Chat Application",
+    "Multi-tenant System"
+  ],
+  
+  contributing: [
+    "Open Source Laravel Packages",
+    "Community Documentation",
+    "Technical Blog Posts"
+  ],
+  
+  certifications: [
+    "AWS Solutions Architect",
+    "Laravel Certified Developer"
+  ]
 };
 ```
 
 ---
 
-### 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 Building Scalable Laravel APIs with Sanctum
-- ⚡ Real-time UIs with Livewire 3.0
-- 🎨 Creating Beautiful Admin Panels with Filament
-- 🔐 Laravel Authentication Best Practices
-- 📊 Optimizing Database Queries in Laravel
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sanjay-jaikumar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/sanjay_dev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/sanjayjaikumar" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://stackoverflow.com/users/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://medium.com/@sanjay.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="mailto:sanjay.dev0110@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-### 💼 Open to Opportunities
-
-<p align="center">
-  <img src="https://img.shields.io/badge/💼_Full--time_Roles-Available-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🤝_Freelance_Projects-Open-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_Open_Source-Contributing-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💡_Consulting-Available-orange?style=for-the-badge" />
-</p>
-
----
-
-### ☕ Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/sanjayjaikumar" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
-  </a>
-</p>
-
----
+## 💼 Open for Opportunities
 
 <div align="center">
 
-### 💭 Quote of the Day
+<img src="https://img.shields.io/badge/💼_Full--time_Positions-Available-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤝_Freelance_Projects-Open-FF2D20?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀_Open_Source-Contributing-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💡_Technical_Consulting-Available-orange?style=for-the-badge" />
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🐍 Contribution Snake
-
-![Snake animation](https://github.com/sanjayjaikumar/sanjayjaikumar/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 ---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sanjay-jaikumar">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/sanjay_dev">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://dev.to/sanjayjaikumar">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+</a>
+<a href="mailto:sanjay.dev0110@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://stackoverflow.com/users/yourprofile">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+</a>
+
+<br><br>
+
+### 💭 Developer Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+
+<br>
 
 **⭐ Star my repositories if you find them useful!**
 
 **💬 Let's collaborate and build something amazing together!**
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF2D20&height=120&section=footer" width="100%" />
 
 </div>
