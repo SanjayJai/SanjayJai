@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=580&lines=Laravel+8.x+%E2%80%94+11.x+Backend+Engineer+%E2%9A%A1;API+Architect+%7C+Livewire+%26+Filament+Pro;React+%7C+Inertia.js+%7C+Full+Stack+Developer;Building+Scalable+Web+Apps+from+India+%F0%9F%87%AE%F0%9F%87%B3" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=580&lines=Laravel+8.x+%E2%80%94+13.x+Backend+Engineer+%E2%9A%A1;API+Architect+%7C+Livewire+%26+Filament+Pro;React+%7C+Inertia.js+%7C+Full+Stack+Developer;Building+Scalable+Web+Apps+from+India+%F0%9F%87%AE%F0%9F%87%B3" />
 
 <br/><br/>
 
