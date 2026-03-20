@@ -1,10 +1,11 @@
-<!-- HEADER BANNER -->
+<!-- HEADER — using 'shark' type which reliably renders full name without cropping -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:200000,100:FF2D20&height=220&section=header&text=Sanjay%20Jaikumar&fontSize=58&fontColor=FFFFFF&fontAlignY=52&desc=Laravel%20Backend%20Engineer%20%7C%20API%20Architect&descAlignY=74&descSize=18&descColor=FF9980&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:3a0000,100:FF2D20&height=180&section=header&text=Sanjay%20Jaikumar&fontSize=52&fontColor=FFFFFF&fontAlignY=60&desc=Laravel%20Backend%20Engineer%20%7C%20API%20Architect&descAlignY=80&descSize=17&descColor=FF9980" width="100%" />
 
 <br/>
 
+<!-- SOCIAL BADGES — real links -->
 <a href="https://www.linkedin.com/in/sanjay-webdeveloper/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;
@@ -20,9 +21,10 @@
 
 <br/><br/>
 
+<!-- TYPING SVG — demolab is reliable -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=560&lines=Laravel+8.x+%E2%80%94+11.x+Engineer+%E2%9A%A1;API+Architect+%7C+Livewire+%26+Filament+Pro;Building+Scalable+Web+Apps+from+India+%F0%9F%87%AE%F0%9F%87%B3;Open+Source+Contributor+%7C+SaaS+Builder" />
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=SanjayJai&color=FF2D20&style=flat-square&label=Profile+Views" />
 
@@ -239,7 +241,6 @@ class SanjayJaikumar extends LaravelEngineer
 
 <br/><br/>
 
-<!-- Contribution activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayJai&bg_color=0d0d0d&color=FF9980&line=FF2D20&point=ffffff&area=true&hide_border=false&border_color=FF2D20&title_color=FF2D20&radius=6" width="94%" />
 
 </div>
@@ -295,6 +296,7 @@ const roadmap2025 = {
 
 <br/>
 
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:1a0000&height=110&section=footer" width="100%" />
 
 </div>
