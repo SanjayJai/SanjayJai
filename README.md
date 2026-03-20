@@ -1,32 +1,23 @@
-<!-- HEADER — using 'shark' type which reliably renders full name without cropping -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,50:3a0000,100:FF2D20&height=180&section=header&text=Sanjay%20Jaikumar&fontSize=52&fontColor=FFFFFF&fontAlignY=60&desc=Laravel%20Backend%20Engineer%20%7C%20API%20Architect&descAlignY=80&descSize=17&descColor=FF9980" width="100%" />
+<!-- CLEAN HEADER: 'rect' type is the most stable, no teeth/blob shapes, text always visible -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:1a0000,100:FF2D20&height=160&section=header&text=Sanjay%20Jaikumar&fontSize=54&fontColor=FFFFFF&fontAlign=50&fontAlignY=45&desc=Laravel%20Backend%20Engineer%20%7C%20API%20Architect&descAlign=50&descAlignY=72&descSize=17&descColor=FFBBAA" width="100%" />
 
 <br/>
 
-<!-- SOCIAL BADGES — real links -->
-<a href="https://www.linkedin.com/in/sanjay-webdeveloper/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
-<a href="https://github.com/SanjayJai" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-</a>&nbsp;
-<a href="mailto:sanjay.dev0110@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-<a href="https://dev.to/sanjayjaikumar" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
-</a>
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/sanjay-webdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/SanjayJai"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<a href="mailto:sanjay.dev0110@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://dev.to/sanjayjaikumar"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 <br/><br/>
 
-<!-- TYPING SVG — demolab is reliable -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=560&lines=Laravel+8.x+%E2%80%94+11.x+Engineer+%E2%9A%A1;API+Architect+%7C+Livewire+%26+Filament+Pro;Building+Scalable+Web+Apps+from+India+%F0%9F%87%AE%F0%9F%87%B3;Open+Source+Contributor+%7C+SaaS+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=580&lines=Laravel+8.x+%E2%80%94+11.x+Backend+Engineer+%E2%9A%A1;API+Architect+%7C+Livewire+%26+Filament+Pro;React+%7C+Inertia.js+%7C+Full+Stack+Developer;Building+Scalable+Web+Apps+from+India+%F0%9F%87%AE%F0%9F%87%B3" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SanjayJai&color=FF2D20&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=SanjayJai&color=FF2D20&style=flat-square&label=Profile+Views"/>
 
 </div>
 
@@ -48,7 +39,7 @@ class SanjayJaikumar extends LaravelEngineer
 
     public array $stack = [
         'backend'  => ['Laravel 8-11', 'PHP 8.x', 'MySQL', 'PostgreSQL', 'Redis'],
-        'frontend' => ['Livewire', 'Alpine.js', 'Tailwind CSS', 'Filament'],
+        'frontend' => ['React', 'Livewire', 'Inertia.js', 'Tailwind CSS', 'Alpine.js'],
         'devops'   => ['Docker', 'Nginx', 'Linux', 'Git', 'CI/CD'],
         'learning' => ['Microservices', 'AWS', 'Kubernetes', 'GraphQL'],
     ];
@@ -77,7 +68,7 @@ class SanjayJaikumar extends LaravelEngineer
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,alpinejs" />
+<img src="https://skillicons.dev/icons?i=react,javascript,tailwind,html,css,alpinejs" />
 
 **DevOps & Tools**
 
@@ -99,6 +90,7 @@ class SanjayJaikumar extends LaravelEngineer
 |:--------|:----|:-----:|
 | **Laravel Framework 8–11** | Full-stack backbone | `Expert` |
 | **Livewire** | Reactive UI without heavy JS | `Advanced` |
+| **Inertia.js + React** | SPA with Laravel backend | `Advanced` |
 | **Filament** | Rapid admin panel building | `Advanced` |
 | **Laravel Sanctum** | SPA & mobile API auth | `Expert` |
 | **Laravel Horizon** | Queue monitoring & management | `Proficient` |
@@ -131,14 +123,14 @@ class SanjayJaikumar extends LaravelEngineer
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps & Delivery
-- ✅ Git Workflows & Code Reviews
-- ✅ CI/CD Pipelines (GitHub Actions)
-- ✅ Linux Server Administration
-- ✅ Nginx Reverse Proxy Configuration
-- ✅ Docker Containerization
-- ✅ Redis Caching & Session Management
-- ✅ MySQL / PostgreSQL Tuning
+### ⚙️ Frontend & DevOps
+- ✅ React — Components, Hooks, State
+- ✅ Inertia.js — Laravel + React SPA
+- ✅ Livewire Real-time Components
+- ✅ Tailwind CSS & Alpine.js
+- ✅ Docker & CI/CD (GitHub Actions)
+- ✅ Linux & Nginx Server Management
+- ✅ Redis Caching & Sessions
 - ✅ API Testing with Postman
 
 </td>
@@ -159,7 +151,7 @@ class SanjayJaikumar extends LaravelEngineer
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 - 🧩 Drag & drop page builder
-- 🔍 Built-in SEO optimization tools
+- 🔍 Built-in SEO optimization
 - 👥 Role-based access control
 - 📊 Analytics dashboard
 - 🌐 Multi-language support
@@ -171,7 +163,7 @@ class SanjayJaikumar extends LaravelEngineer
 
 ### 🛒 E-Commerce Platform
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
 
 - 🛒 Real-time shopping cart
@@ -220,9 +212,9 @@ class SanjayJaikumar extends LaravelEngineer
 </table>
 
 <div align="center">
-  <a href="https://github.com/SanjayJai?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  </a>
+<a href="https://github.com/SanjayJai?tab=repositories">
+<img src="https://img.shields.io/badge/View_All_Repositories-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+</a>
 </div>
 
 ---
@@ -231,17 +223,17 @@ class SanjayJaikumar extends LaravelEngineer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjayJai&show_icons=true&bg_color=0d0d0d&border_color=FF2D20&title_color=FF2D20&icon_color=FF6B4A&text_color=ffffff&count_private=true&hide_border=false&theme=dark" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanjayJai&show_icons=true&bg_color=0d0d0d&border_color=FF2D20&title_color=FF2D20&icon_color=FF6B4A&text_color=ffffff&count_private=true&theme=dark" />
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayJai&layout=compact&bg_color=0d0d0d&border_color=FF2D20&title_color=FF2D20&text_color=ffffff&langs_count=8&theme=dark" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=SanjayJai&theme=dark&background=0d0d0d&border=FF2D20&stroke=FF2D20&ring=FF2D20&fire=FF6B4A&currStreakLabel=FF2D20&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+<img src="https://streak-stats.demolab.com?user=SanjayJai&theme=dark&background=0d0d0d&border=FF2D20&stroke=FF2D20&ring=FF2D20&fire=FF6B4A&currStreakLabel=FF2D20&sideLabels=aaaaaa&dates=888888&currStreakNum=ffffff&sideNums=ffffff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayJai&bg_color=0d0d0d&color=FF9980&line=FF2D20&point=ffffff&area=true&hide_border=false&border_color=FF2D20&title_color=FF2D20&radius=6" width="94%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayJai&bg_color=0d0d0d&color=FF9980&line=FF2D20&point=ffffff&area=true&hide_border=false&border_color=FF2D20&title_color=FF2D20&radius=6" width="94%"/>
 
 </div>
 
@@ -259,7 +251,7 @@ const roadmap2025 = {
   ],
   building: [
     "Multi-tenant Laravel SaaS Boilerplate",
-    "API Gateway Solution",
+    "Laravel + React SPA Starter Kit",
     "Real-time Chat App with WebSockets",
   ],
   certifications: [
@@ -296,7 +288,6 @@ const roadmap2025 = {
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:1a0000&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:1a0000&height=110&section=footer" width="100%"/>
 
 </div>
