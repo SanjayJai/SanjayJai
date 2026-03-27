@@ -9,8 +9,9 @@
 <a href="https://www.linkedin.com/in/sanjay-webdeveloper/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="https://github.com/SanjayJai"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
 <a href="mailto:sanjay.dev0110@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://sanjay-devhub.vercel.app/"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-
+<a href="https://sanjay-devhub.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF2D20&center=true&vCenter=true&width=580&lines=Laravel+8.x+%E2%80%94+13.x+Backend+Engineer+%E2%9A%A1;API+Architect+%7C+Livewire+%26+Filament+Pro;React+%7C+Inertia.js+%7C+Full+Stack+Developer;Building+Scalable+Web+Apps+from+India+%F0%9F%87%AE%F0%9F%87%B3" />
